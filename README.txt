@@ -1,61 +1,74 @@
-MANJAWS PORTFOLIO
-==================
+# Manjaws Portfolio
 
-This portfolio uses:
-- HTML
-- CSS
-- Vanilla JavaScript
+My personal portfolio website, My name is Gbenle Kamolideen Ajibola, also known as Manjaws.
 
-No Bootstrap.
-No jQuery.
-No React.
+This portfolio presents my work across DevOps, Cloud Computing, Cybersecurity, Software Engineering, AI Automation, and Digital Product Development.
 
-FILES
------
-index.html
-css/style.css
-js/script.js
+The project is built with pure HTML, CSS, and JavaScript. No frontend framework or UI library is used.
 
-ASSETS TO ADD
--------------
-1. Profile photo
-   assets/images/profile.jpg
+## About the Project
 
-2. CV
-   resume/manjaws-cv.pdf
+The purpose of this portfolio is to present my technical background, projects, skills, learning journey, and professional contact information in one place.
 
-3. Linux Foundation certificate
-   assets/certificates/linux-foundation.jpg
+The design was adapted from a professional website layout and rebuilt from scratch using only native web technologies.
 
-4. Other certificates
-   assets/certificates/
+The site focuses on:
 
-IMPORTANT EDITS
----------------
-1. Open index.html.
-2. Replace:
-   your-email@example.com
-   github.com/yourusername
-   linkedin.com/in/yourusername
-3. Open js/script.js.
-4. Replace:
-   const portfolioEmail = "your-email@example.com";
-5. Replace all "#" project URLs with your GitHub, demo, or case-study URLs.
+- Clean and responsive design
+- Simple navigation
+- Project presentation
+- Skills and technology stack
+- Experience and learning timeline
+- Contact form validation
+- Mobile responsiveness
+- Lightweight frontend performance
 
-RUN LOCALLY
------------
-Double-click index.html.
+## Technologies Used
 
-For the best local development experience, use VS Code Live Server.
+- HTML5
+- CSS3
+- JavaScript
+- Jost Font
+- Netlify or other static hosting platforms
 
-DEPLOY
-------
-You can deploy this static site using:
-- GitHub Pages
-- Netlify
-- Vercel
-- Cloudflare Pages
+## Main Features
 
-CUSTOMIZATION
--------------
-Main colors are defined at the top of css/style.css inside :root.
+- Responsive navigation
+- Mobile menu
+- Hero section
+- About section
+- Animated statistics
+- Skills section
+- Project filtering
+- Experience timeline
+- Contact section
+- Form validation
+- Scroll reveal animations
+- Active navigation state
+- Back-to-top button
+- Downloadable CV
+- Favicon support
+
+## Project Structure
+
+```text
+manjaws-portfolio/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── assets/
+│   ├── images/
+│   │   ├── profile.jpeg
+│   │   └── favicon.png
+│   └── projects/
+│
+├── resume/
+│   └── Gbenle_Kamolideen_CV.pdf
+│
+└── README.md
